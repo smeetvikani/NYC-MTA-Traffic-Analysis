@@ -11,7 +11,7 @@
 ---
 
 ### <a name="section-a"></a>1.  Project Overview
-The goal of our project was to provide actionable data that will help optimize the placement of WTWY Organizations street teams, such that they can gather the most signatures, ideally from those who will attend the event and contribute to their cause.
+#### The goal of our project was to provide actionable data that will help optimize the placement of WTWY Organizations street teams, such that they can gather the most signatures, ideally from those who will attend the event and contribute to their cause.
 ---
 
 ### <a name="section-b"></a>2.  Actions
